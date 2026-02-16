@@ -31,7 +31,7 @@ class descendant to save, load and process user data. The overridden [CachedDocu
 - [Reporting for Web (ASP.NET MVC) - How to Display the Name of the Current Logged in User in a Report](https://github.com/DevExpress-Examples/Reporting_webdocumentviewer-xrpageinfo-with-pageinfousername-display-the-name-of-a-logged-t484189)
 - [How to implement a custom authorization service](https://github.com/DevExpress-Examples/Reporting_how-to-implement-a-custom-authorization-service-t488888)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-web-viewer-document-custom-data&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-web-viewer-document-custom-data&~~~was_helpful=no)
 
